@@ -1,82 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Machine Learning & Robotics Projects</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
 
-<style> 
+<h1 align="center">Hey there, I'm Marius 👋</h1>
 
-/* Basic styling for the page */
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-  background-color: #f4f4f4;
-}
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MariusBongarts&label=Profile+Views" />
+</p>
 
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 2em 0;
-  text-align: center;
-}
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-header h1 {
-  margin: 0;
-}
+- 💼 Frontend Engineer @ Accenture Song
 
-main {
-  padding: 2em;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
+- 👨‍💻 Building <a href="https://web-highlights.com" target="_blank" style="color: inherit">Web Highlights</a> --> A <a href="https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm" target="_blank" style="color: inherit">PDF & Web Highlighter Chrome extension </a>
 
-.project-card {
-  background-color: #fff;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  padding: 1.5em;
-  margin: 1em;
-  flex: 0 1 calc(33.33% - 2em);
-  text-align: left;
-}
+- 📝 4k+ followers on Medium --> Check out my blog <code><a href="https://medium.com/@mariusbongarts" target="_blank" title="LinkedIn Profile"><img width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"> Marius Bongarts on Medium</a></code>
 
-footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 1em 0;
-}
 
-</style>
-<body>
-  <header>
-    <h1>Machine Learning & Robotics Projects</h1>
-    <p>Welcome to my GitHub repository showcasing my work in ML and Robotics!</p>
-  </header>
-  
-  <main>
-    <!-- Your project cards or descriptions here -->
-    <div class="project-card">
-      <h2>Project Title 1</h2>
-      <p>Description of the project. Include what it does and its significance.</p>
-      <a href="link-to-project-repository">View Project</a>
-    </div>
-
-    <div class="project-card">
-      <h2>Project Title 2</h2>
-      <p>Description of the project. Include what it does and its significance.</p>
-      <a href="link-to-project-repository">View Project</a>
-    </div>
-    <!-- More projects can be added similarly -->
-  </main>
-
-  <footer>
-    <p>&copy; 2023 Your Name</p>
-  </footer>
-</body>
-</html>
+- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/marius-bongarts-6b3638171/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> <code><a href="https://twitter.com/MariusBongarts" target="_blank" title="Twitter Profile"><img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter</a></code>
