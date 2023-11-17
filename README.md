@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, I'm Marius 👋</h1>
+<h1 align="center">Hey there, I'm Masood Ahmad 👋</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MariusBongarts&label=Profile+Views" />
@@ -15,3 +15,30 @@
 
 
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/marius-bongarts-6b3638171/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> <code><a href="https://twitter.com/MariusBongarts" target="_blank" title="Twitter Profile"><img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter</a></code>
+
+
+# [Your Name]
+## PhD Candidate in Robotics, Blockchain, and Machine Learning
+
+Hello! I'm [Your Name], a passionate PhD candidate exploring the intersections of Robotics, Blockchain, and Machine Learning. My research focuses on [briefly mention your research area or interests].
+
+### Research Interests
+- Robotics
+- Blockchain Technology
+- Machine Learning
+- [Add more specific interests or subfields if applicable]
+
+### Projects
+- **[Project Title 1]**: Description of the project and its relevance to Robotics/Blockchain/Machine Learning.
+- **[Project Title 2]**: Brief overview of another significant project and its impact.
+
+### Publications
+- [List any published or accepted papers, if available, with links if possible]
+
+### Contact
+- 📧 [Your Email Address]
+- [LinkedIn](https://www.linkedin.com/in/your-profile-link/)
+
+Feel free to reach out if you're interested in collaborating or discussing shared interests in the exciting world of Robotics, Blockchain, and Machine Learning!
+
+
