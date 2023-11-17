@@ -7,37 +7,20 @@
 
 <img align='right' src="https://cdn-icons-gif.flaticon.com/11260/11260831.gif" width="230">
 
-- 💼 MS Student @ Warsaw University of Technology
+- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/masood-ahmad-661029172/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> <code>
 
-- 👨‍💻 Building <a href="https://web-highlights.com" target="_blank" style="color: inherit">Web Highlights</a> --> A <a href="https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm" target="_blank" style="color: inherit">PDF & Web Highlighter Chrome extension </a>
+## Interested in Robotics, Blockchain, and Machine Learning
 
-- 📝 4k+ followers on Medium --> Check out my blog <code><a href="https://medium.com/@mariusbongarts" target="_blank" title="LinkedIn Profile"><img width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"> Marius Bongarts on Medium</a></code>
-
-
-- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/marius-bongarts-6b3638171/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> <code><a href="https://twitter.com/MariusBongarts" target="_blank" title="Twitter Profile"><img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter</a></code>
-
-
-# [Your Name]
-## PhD Candidate in Robotics, Blockchain, and Machine Learning
-
-Hello! I'm [Your Name], a passionate PhD candidate exploring the intersections of Robotics, Blockchain, and Machine Learning. My research focuses on [briefly mention your research area or interests].
+Hello! I'm a passionate student exploring the intersections of Robotics, Blockchain, and Machine Learning.
 
 ### Research Interests
-- Robotics
+- Robotics - UAVs
 - Blockchain Technology
-- Machine Learning
-- [Add more specific interests or subfields if applicable]
+- Machine Learning - LLMs
 
-### Projects
-- **[Project Title 1]**: Description of the project and its relevance to Robotics/Blockchain/Machine Learning.
-- **[Project Title 2]**: Brief overview of another significant project and its impact.
-
-### Publications
-- [List any published or accepted papers, if available, with links if possible]
 
 ### Contact
-- 📧 [Your Email Address]
-- [LinkedIn](https://www.linkedin.com/in/your-profile-link/)
+- 📧 [masoodmx@gmail.com]
 
 Feel free to reach out if you're interested in collaborating or discussing shared interests in the exciting world of Robotics, Blockchain, and Machine Learning!
 
