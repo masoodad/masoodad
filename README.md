@@ -2,12 +2,12 @@
 <h1 align="center">Hey there, I'm Masood Ahmad 👋</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MariusBongarts&label=Profile+Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=masoodad&label=Profile+Views" /> -->
 </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://cdn-icons-gif.flaticon.com/11260/11260831.gif" width="230">
 
-- 💼 Frontend Engineer @ Accenture Song
+- 💼 MS Student @ Warsaw University of Technology
 
 - 👨‍💻 Building <a href="https://web-highlights.com" target="_blank" style="color: inherit">Web Highlights</a> --> A <a href="https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm" target="_blank" style="color: inherit">PDF & Web Highlighter Chrome extension </a>
 
