@@ -6,8 +6,6 @@
 
 ## Interested in Robotics, Blockchain, and Machine Learning
 
-Hello! I'm a passionate student exploring the intersections of Robotics, Blockchain, and Machine Learning.
-
 ### Research Interests
 - Robotics - UAVs
 - Blockchain Technology
