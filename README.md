@@ -8,8 +8,8 @@
 
 ### Research Interests
 - Robotics - UAVs
-- Blockchain Technology
 - Machine Learning - LLMs
+- Blockchain Technology
 
 
 ### Contact
